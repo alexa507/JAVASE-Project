@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <row>
+    <label>Current Account</label>
+    <balance>0</balance>
+    <accountClient>
+      <name>Zinedine</name>
+      <firstname>Zidane</firstname>
+    </accountClient>
+  </row>
+  <row>
+    <label>Savings Account</label>
+    <balance>0</balance>
+    <accountClient>
+      <name>Zinedine</name>
+      <firstname>Zidane</firstname>
+    </accountClient>
+  </row>
+  <row>
+    <label>Current Account</label>
+    <balance>0</balance>
+    <accountClient>
+      <name>Thierry</name>
+      <firstname>Henry</firstname>
+    </accountClient>
+  </row>
+  <row>
+    <label>Savings Account</label>
+    <balance>0</balance>
+    <accountClient>
+      <name>Thierry</name>
+      <firstname>Henry</firstname>
+    </accountClient>
+  </row>
+  <row>
+    <label>Current Account</label>
+    <balance>0</balance>
+    <accountClient>
+      <name>Gica</name>
+      <firstname>Hagi</firstname>
+    </accountClient>
+  </row>
+  <row>
+    <label>Savings Account</label>
+    <balance>0</balance>
+    <accountClient>
+      <name>Gica</name>
+      <firstname>Hagi</firstname>
+    </accountClient>
+  </row>
+</root>

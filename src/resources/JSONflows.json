@@ -1,0 +1,67 @@
+[
+   {
+	"@type": "Debit",
+      "comment":"Comment Debit",
+      "idetifier":"Debit",
+      "amount":50,
+      "targetAccountNumber":1,
+      "effect":false
+   },
+   {
+	"@type": "Credit",
+      "comment":"Comment Credit",
+      "idetifier":"Credit",
+      "amount":100.50,
+      "targetAccountNumber":2,
+      "effect":false
+   },
+   {
+	"@type": "Credit",
+      "comment":"Comment Credit",
+      "idetifier":"Credit",
+      "amount":100.50,
+      "targetAccountNumber":3,
+      "effect":false
+   },
+   {
+	"@type": "Credit",
+      "comment":"Comment Credit",
+      "idetifier":"Credit",
+      "amount":100.50,
+      "targetAccountNumber":1,
+      "effect":false
+   },
+   {
+	"@type": "Credit",
+      "comment":"Comment Credit Savings",
+      "idetifier":"Credit",
+      "amount":1500,
+      "targetAccountNumber":3,
+      "effect":false
+   },
+   {
+	"@type": "Credit",
+      "comment":"Comment Credit Savings",
+      "idetifier":"Credit",
+      "amount":1500,
+      "targetAccountNumber":2,
+      "effect":false
+   },
+   {
+	"@type": "Credit",
+      "comment":"Comment Credit Savings",
+      "idetifier":"Credit",
+      "amount":1500,
+      "targetAccountNumber":1,
+      "effect":false
+   },
+   {
+	"@type": "Transfer",
+      "comment":"Comment Transfer 1-2",
+      "idetifier":"Transfer",
+      "amount":50,
+      "targetAccountNumber":2,
+      "effect":false,
+      "accountNumberIssue":1
+   }
+]
